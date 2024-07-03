@@ -3,3 +3,8 @@
     padding: 0;
     
 }
+
+body{
+    background: rgba(144,120,289,1) url(image/kateryna-hliznitsova--JK_faAEFPM-unsplash.jpg) no-repeat fixed center center;
+    background-size: cover;
+}
